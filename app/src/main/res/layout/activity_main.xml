@@ -138,7 +138,7 @@
         android:id="@+id/rating_string"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Review and Ratings"
+        android:text="Review Ratings"
         android:textSize="16dp"
         android:textColor="#ffffff"
         android:layout_marginTop="30dp"
